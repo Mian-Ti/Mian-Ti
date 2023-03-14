@@ -37,28 +37,28 @@
 These generated metrics comes with ABSOLUTELY NO
 WARRANTY, to the extent permitted by applicable law.
 
-Last generated: 14 Mar 2023, 21:25:00
+Last generated: 14 Mar 2023, 22:04:40
 </div><div class="stdin"><span class="ps1-path">mian-ti@metrics</span>:<span class="ps1-location">~</span># whoami</div><div class="stdout"><b>面题</b> registered=10m, uid=0, gid=9367
   organization with <b>1</b> member
 </div>
-<div class="stdin"><span class="ps1-path">mian-ti@metrics</span>:<span class="ps1-location">~</span># ls -lh github/repositories</div><div class="stdout">Total 10 repositories - 17.8 MB
+<div class="stdin"><span class="ps1-path">mian-ti@metrics</span>:<span class="ps1-location">~</span># ls -lh github/repositories</div><div class="stdout">Total 11 repositories - 17.8 MB
 -r--  <b>    1</b>  stargazer
 -r--  <b>    0</b>  forks
--r--  <b>   10</b>  watchers
+-r--  <b>   11</b>  watchers
 dr-x  <b>    0</b>  packages
 </div>
-<div class="stdin"><span class="ps1-path">mian-ti@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"><b>JAVASCRIPT  </b> [############        ] 59.14%
-<b>TYPESCRIPT  </b> [####                ] 19.31%
-<b>HTML        </b> [####                ] 16.86%
-<b>SCSS        </b> [#                   ] 2.48 %
-<b>CSS         </b> [#                   ] 1.70 %
+<div class="stdin"><span class="ps1-path">mian-ti@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"><b>JAVASCRIPT  </b> [############        ] 58.49%
+<b>TYPESCRIPT  </b> [####                ] 18.98%
+<b>HTML        </b> [####                ] 16.67%
+<b>SCSS        </b> [#                   ] 2.45 %
+<b>CSS         </b> [#                   ] 1.68 %
+<b>PYTHON      </b> [#                   ] 1.31 %
 <b>MUSTACHE    </b> [#                   ] 0.30 %
 <b>RUST        </b> [#                   ] 0.14 %
-<b>SHELL       </b> [#                   ] 0.08 %
 </div>
 
 
-<footer>Connection reset by 228.21.186.174</footer></pre>
+<footer>Connection reset by 77.152.61.227</footer></pre>
 
     </div>
     <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
