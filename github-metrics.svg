@@ -37,28 +37,28 @@
 These generated metrics comes with ABSOLUTELY NO
 WARRANTY, to the extent permitted by applicable law.
 
-Last generated: 19 Sept 2023, 15:02:46
+Last generated: 19 Sept 2023, 16:08:31
 </div><div class="stdin"><span class="ps1-path">mian-ti@metrics</span>:<span class="ps1-location">~</span># whoami</div><div class="stdout"><b>面题</b> registered=1y, uid=0, gid=9367
   organization with <b>1</b> member
 </div>
-<div class="stdin"><span class="ps1-path">mian-ti@metrics</span>:<span class="ps1-location">~</span># ls -lh github/repositories</div><div class="stdout">Total 13 repositories - 21.3 MB
+<div class="stdin"><span class="ps1-path">mian-ti@metrics</span>:<span class="ps1-location">~</span># ls -lh github/repositories</div><div class="stdout">Total 14 repositories - 21.4 MB
 -r--  <b>    1</b>  stargazer
 -r--  <b>    0</b>  forks
--r--  <b>   13</b>  watchers
+-r--  <b>   14</b>  watchers
 dr-x  <b>    0</b>  packages
 </div>
-<div class="stdin"><span class="ps1-path">mian-ti@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"><b>JAVASCRIPT  </b> [###########         ] 52.91%
-<b>TYPESCRIPT  </b> [#####               ] 21.44%
-<b>HTML        </b> [####                ] 15.86%
-<b>CSS         </b> [#                   ] 3.38 %
-<b>JAVA        </b> [#                   ] 2.75 %
-<b>SCSS        </b> [#                   ] 2.22 %
-<b>PYTHON      </b> [#                   ] 1.18 %
-<b>MUSTACHE    </b> [#                   ] 0.27 %
+<div class="stdin"><span class="ps1-path">mian-ti@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"><b>JAVASCRIPT  </b> [###########         ] 51.89%
+<b>TYPESCRIPT  </b> [#####               ] 22.79%
+<b>HTML        </b> [####                ] 15.70%
+<b>CSS         </b> [#                   ] 3.35 %
+<b>JAVA        </b> [#                   ] 2.69 %
+<b>SCSS        </b> [#                   ] 2.17 %
+<b>PYTHON      </b> [#                   ] 1.16 %
+<b>MUSTACHE    </b> [#                   ] 0.26 %
 </div>
 
 
-<footer>Connection reset by 17.50.165.148</footer></pre>
+<footer>Connection reset by 247.158.168.144</footer></pre>
 
     </div>
     <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
