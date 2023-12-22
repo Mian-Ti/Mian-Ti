@@ -37,7 +37,7 @@
 These generated metrics comes with ABSOLUTELY NO
 WARRANTY, to the extent permitted by applicable law.
 
-Last generated: 22 Dec 2023, 10:18:18
+Last generated: 22 Dec 2023, 11:04:26
 </div><div class="stdin"><span class="ps1-path">mian-ti@metrics</span>:<span class="ps1-location">~</span># whoami</div><div class="stdout"><b>面题</b> registered=1y, uid=0, gid=9367
   organization with <b>1</b> member
 </div>
@@ -47,7 +47,7 @@ Last generated: 22 Dec 2023, 10:18:18
 -r--  <b>   16</b>  watchers
 dr-x  <b>    0</b>  packages
 </div>
-<div class="stdin"><span class="ps1-path">mian-ti@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"><b>JAVASCRIPT  </b> [##########          ] 48.22%
+<div class="stdin"><span class="ps1-path">mian-ti@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"><b>JAVASCRIPT  </b> [##########          ] 48.23%
 <b>TYPESCRIPT  </b> [######              ] 27.42%
 <b>HTML        </b> [####                ] 15.22%
 <b>CSS         </b> [#                   ] 3.33 %
@@ -58,7 +58,7 @@ dr-x  <b>    0</b>  packages
 </div>
 
 
-<footer>Connection reset by 51.255.123.128</footer></pre>
+<footer>Connection reset by 139.95.81.71</footer></pre>
 
     </div>
     <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
